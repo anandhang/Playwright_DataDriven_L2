@@ -1,0 +1,3 @@
+username,password,success
+anantsmail@gmail.com,Imagine@123,true
+wrongmail@gmail.com,wrongpassword@123,true

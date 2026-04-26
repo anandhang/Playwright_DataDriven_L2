@@ -1,0 +1,12 @@
+[
+    {
+        "username": "anantsmail@gmail.com",
+        "password": "Imagine@123",
+        "success": true
+    },
+    {
+        "username": "wronguser@gmail.com",
+        "password": "wronguser@123",
+        "success": false
+    }
+]

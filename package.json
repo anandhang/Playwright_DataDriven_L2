@@ -1,0 +1,27 @@
+{
+  "name": "playwright_datadriven_l2",
+  "version": "1.0.0",
+  "description": "Playwright_DataDriven_L2",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandhang/Playwright_DataDriven_L2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anandhang/Playwright_DataDriven_L2/issues"
+  },
+  "homepage": "https://github.com/anandhang/Playwright_DataDriven_L2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
