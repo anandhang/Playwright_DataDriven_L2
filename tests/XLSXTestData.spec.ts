@@ -18,5 +18,4 @@ for(const user of data)
         }
         await page.close();
     });
-
 }

@@ -20,8 +20,8 @@ export function getCSVData(filePath: string){
 
 /* 
 export function getCSVData1(filePath: string) {
-  const csvText = fs.readFileSync(filePath, "utf-8"); // raw text
-  const lines = csvText.split("\n");                  // 👈 use "\n" not "/n"
+  const csvText = fs.readFileSync(filePath, "utf-8"); 
+  const lines = csvText.split("\n");                
   const header = lines[0].split(",");
 
   const records = lines
